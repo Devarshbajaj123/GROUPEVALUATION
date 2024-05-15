@@ -11,3 +11,4 @@ Customization: Users can tailor their browsing experience by selecting filters t
 Efficiency: Filters streamline the search process, saving users time and effort in locating desired images.
 
 Enhanced Navigation: Filters enable users to navigate through a large collection of images more effectively by narrowing down options based on specific parameters.
+made by devarsh,dhruv,damanpreet
