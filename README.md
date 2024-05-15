@@ -13,3 +13,4 @@ Efficiency: Filters streamline the search process, saving users time and effort 
 Enhanced Navigation: Filters enable users to navigate through a large collection of images more effectively by narrowing down options based on specific parameters.
 made by devarsh,dhruv,damanpreet team 18
 we made equal contribution to this project.
+we want our project to get selected.
