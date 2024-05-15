@@ -114,7 +114,7 @@ body.fade-in {
   display: none;
 }
 
-@keyframes spin {
+@keyframes  spin {
   0% {
     transform: rotate(0deg);
   }
